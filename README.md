@@ -254,7 +254,7 @@ Built to eliminate repetitive job applications and empower smarter job searching
 
 ---
 
-## 📬 Contact
+#Contact
 
 For questions or collaboration:
 
