@@ -1,0 +1,13 @@
+#virtual environment
+.kazi
+kazi/
+env/
+
+#python cache
+_pycache_/
+*.pyc
+*.pyo
+
+#environment variables
+.env
+.env.local
